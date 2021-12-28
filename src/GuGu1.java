@@ -5,8 +5,6 @@ public class GuGu1 {
 		int n=2;
 		int i=1;
 		int j=1;
-		
-		
 		if(n==2) {
 			System.out.println("구구단" +n+"단");
 			for(i=1;i<=9;i++) {
@@ -26,3 +24,4 @@ public class GuGu1 {
 	}
 
 }
+
